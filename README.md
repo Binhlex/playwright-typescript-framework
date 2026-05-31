@@ -58,11 +58,11 @@ playwright-typescript-framework/
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/playwright-typescript-framework.git
+git clone https://github.com/binhlex/playwright-typescript-framework.git
 cd playwright-typescript-framework
 npm install
 npx playwright install
-cp .env.example .env
+copy .env.example .env
 ```
 
 ### Running Tests
@@ -111,5 +111,5 @@ Tests run automatically on every push and pull request via GitHub Actions:
 ---
 
 ## Built by
-[Your Name] — Built as part of a 30-day Playwright learning plan.
+[binhlex] — Built as part of a 30-day Playwright learning plan.
 ```
